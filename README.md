@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hola, soy Cordovadcrk 👋
+# Hola, soy Ignacio Cordova 👋
 
-### Física · Astronomía computacional · Machine Learning
+### Física · astrofísica computacional · Machine Learning
 
 Transformo preguntas científicas en modelos, simulaciones y visualizaciones reproducibles.
 
@@ -10,7 +10,7 @@ Transformo preguntas científicas en modelos, simulaciones y visualizaciones rep
 
 ## Sobre mí
 
-- 🌌 Exploro cosmología, evolución estelar y análisis de datos astronómicos.
+- 🌌 Exploro cosmología, análisis de datos astronómicos, la evolución y dinámica cosmológica.
 - 🧠 Experimento con aprendizaje por refuerzo aplicado a entornos complejos.
 - 🔭 Desarrollo herramientas educativas y visualizaciones científicas interactivas.
 - 🧪 Me interesa conectar teoría, datos y cómputo en proyectos reproducibles.
